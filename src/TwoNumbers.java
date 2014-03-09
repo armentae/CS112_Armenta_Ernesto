@@ -1,4 +1,4 @@
-//Input.java
+//TwoNumbers.java
 //Input-printing program.
 import java.util.Scanner; //program uses class Scanner
 
